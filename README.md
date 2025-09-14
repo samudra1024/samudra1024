@@ -18,6 +18,7 @@
 ### 📊 GitHub Stats
 
  ![radical](https://github-readme-stats.vercel.app/api?username=samudra1024&show_icons=true&theme=radical)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=samudra1024&theme=radical" alt="GitHub Streak"/>
 
 ### ⚡ Fun Facts
 - 💬 Ask me about **map rendering, SMS integration, backend security**
