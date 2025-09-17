@@ -15,11 +15,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samudra-s-hosmata-2581032a7/)](https://www.linkedin.com/in/samudra-s-hosmata-2581032a7/)
 [![Gmail Badge](https://img.shields.io/badge/-EMAIL-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samudrahosmata@gmail.com)](mailto:samudrahosmata@gmail.com)
 
-### 📊 GitHub Stats
-
- ![radical](https://github-readme-stats.vercel.app/api?username=samudra1024&show_icons=true&theme=radical)
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=samudra1024&theme=radical" alt="GitHub Streak"/>
-
 ### ⚡ Fun Facts
 - 💬 Ask me about **map rendering, SMS integration, backend security**
 - 🤓 Always open to collaboration and new projects!
